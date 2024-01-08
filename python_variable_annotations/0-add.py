@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A type-annotated function add that takes a float a and b and returns their sum
 """
